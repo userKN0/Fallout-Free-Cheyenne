@@ -1,0 +1,23 @@
+Geck Extender Base Address: 038E0000
+Garden of Eden Creation Kit
+
+Computer Name: Patrick
+
+The script function list doesn't have all the names filled in.
+
+Create D3D9 instance...SUCCESSFUL
+
+NiDX9Renderer::Initialize> Attempting to create rendering device
+
+NiDX9Renderer::Create> Using D3DFMT_X8R8G8B8 backbuffer format
+
+NiDX9Renderer::Recreate> Using D3DFMT_X8R8G8B8 backbuffer format
+
+NiDX9Renderer::Create> Using D3DFMT_X8R8G8B8 backbuffer format
+
+NiDX9SwapChainDepthStencilBufferData::Create> Using D3DFMT_D24X8 depth/stencil format
+
+NiDX9Renderer::Create> Using D3DFMT_X8R8G8B8 backbuffer format
+
+NiDX9SwapChainDepthStencilBufferData::Create> Using D3DFMT_D24X8 depth/stencil format
+
