@@ -4,7 +4,7 @@
 
 AshfallDude - Interior Design 
 
-AsianInvasionofAlaska2077 - Conceptualization, Writing
+AsianInvasionofAlaska2077 - Conceptualization, Writing, Interior/Exterior Design
 
 King_MrJL - Exterior Design
 
