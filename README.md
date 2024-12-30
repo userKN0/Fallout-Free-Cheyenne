@@ -16,8 +16,6 @@ StreikingVenom - Conceptualization, 3D Asset Creation
 
 userKN - Project Lead
 
-Zanadood - Conceptualization, Writing
-
 Zibane - Writing
 
 [Resources]
