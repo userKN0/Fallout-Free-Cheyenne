@@ -1,0 +1,3 @@
+A splinter faction of the Midwestern Brotherhood of Steel. The largest of the three warring groups, the Provisional Brotherhood began after a failed coup by Paladin Sheppard and his True Brotherhood led to the deaths of the council of elders. With leadership in disarray, Midwestern Brotherhood who opposed the True Brotherhood formed a Provisional Council. Disagreements to who should be on the Provisional Council led to another split, resulting in the mutant rank and file forming the Unity of Steel. The Provisional Brotherhood ranks are largely dominated by tribals from the Midwestern BoS conquests. 
+
+FACTION NPCs

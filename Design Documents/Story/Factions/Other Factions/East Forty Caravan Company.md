@@ -1,0 +1,9 @@
+A caravan company that operates on both sides of the Colorado River in the Mojave. The EFCC was created by John Abel Presper, the son of Victor Presper. 
+When Victor Presper left California with an NCR expedition in 2269 to scout the wasteland to the Mississippi River, he sent letters back to his family detailing the land, territory, and people they encountered. John was able to get ahead of the other caravan outfits with first hand knowledge of the trade routes and the communities east of the Colorado River. Victor Presper's last letter to John detailed their plans to enter the Boulder Dome, causing John to search for another key to the Dome for the next ten years. After searching for every NCR soldier who participated in the Sacking of Navarro, John Abel finally secured a second key to the Boulder Dome. 
+The EFCC sent an armed guard to transport the important caravan into Legion territory. However, the guards never expected a Legion-marked caravan to be attacked and were caught by complete surprise by the Ciphers. Desperate to recover the only tool capable of breaching the Boulder Dome, the company assembles a team of professionals to track down and recover the stolen package. 
+
+The East Forty Caravan Company is a key piece in supporting Caesar's invasion of the Mojave. With southern Nevada being desperately barren and the Legion destroying settlements to inflict pain on the NCR, the EFCC is the stopgap to solve the logistical challenge of the Legion occupying the region. However, the details are not completely worked out and John Abel expresses his concerns to Caesar. The big problem that Abel details is that all of the sharecroppers who produce food for Vegas will flee to the NCR and food will have to be brought across the river to feed Vegas *and* the Legion until farming can be re-established. 
+
+FACTION NPCs
+- John Abel 
+- Abel's Brotherhood Contact

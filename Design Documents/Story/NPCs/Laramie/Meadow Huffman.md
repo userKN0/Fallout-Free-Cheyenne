@@ -1,0 +1,1 @@
+Owner of Meadow's Eatery, a fast food restaurant serving customers traveling between Laramie and Free Cheyenne.  

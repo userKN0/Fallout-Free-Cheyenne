@@ -1,0 +1,3 @@
+Postumus is a ghoulified Legion Centurion, stationed near The Reservation. He and his cohort were transformed after constant exposure to The Zone and covered themselves to hide their affliction. They emit radiation, eventually causing those around them not already ghouls to either mutate as well or die. The more of them there are the greater the effect is, meaning if their numbers swell to a great enough number they could conquer the entire wasteland. 
+
+Postumus and his cohort will march to Denver for the Battle of the Corridor if Ferrarius is killed.

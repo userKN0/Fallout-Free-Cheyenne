@@ -1,0 +1,1 @@
+Sitting Free Cheyenne city councilor. Pro-NCR and attempting to form an Unpatriotic Activities Committee to root out Legion Frumentarii he believes have infiltrated the city.  

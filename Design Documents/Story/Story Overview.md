@@ -1,0 +1,3 @@
+The story of Fallout: Free Cheyenne 
+
+While the factions try to gain the favor of the Player through either ideals or rewards, the character Victor Presper, who is the other half of the Boulder Dome, understands the true battlefield isn't the Corridor but the Player themselves. He attempts to break down their actions and beliefs to make them side with Presper's ultimate goal of peace across the wasteland through threat of total annihilation. 

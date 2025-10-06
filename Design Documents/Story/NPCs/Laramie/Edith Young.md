@@ -1,0 +1,1 @@
+The de facto leader of the Laramie Citizens Alliance. Once a former bounty hunter employed by the Platte Trading Company, she settled down to run the town boarding house. She wants to use the Morse Brothers in a good ol'-fashioned shootout, but is too old to do so.

@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "3272f7359c31da53",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cddd441a7de3f69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2707479a32974a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Historical Timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0e2b76999ddc47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Locations/Free Cheyenne Plaza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "804baa4a1cfdae55",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bac1e41ed121b4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a6529d99dfedee0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f63a787dfa631e2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fd7289a63b8a644",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b467a772bac3c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bbbe3f6802b9ac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33995741336f7e3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setting/Locations/Free Cheyenne Plaza.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dccba5c359b3604",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setting/Locations/Free Cheyenne Plaza.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d4b4b99bdfdf172",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a5d006fae1e5a12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setting/Locations/Free Cheyenne Plaza.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "2b0e2b76999ddc47",
+  "lastOpenFiles": [
+    "Setting/Locations/Free Cheyenne.md",
+    "Setting/Locations/Free Cheyenne Plaza.md",
+    "Plot/Story Notes.md",
+    "Setting/Historical Timeline.md",
+    "Factions/Minor Factions/Provisional Brotherhood.md",
+    "Factions/Other Factions/Platte Trading Company.md",
+    "Story Overview.md",
+    "Companions/Bella.md"
+  ]
+}

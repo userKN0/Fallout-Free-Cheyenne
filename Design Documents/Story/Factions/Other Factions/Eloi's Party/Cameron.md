@@ -1,0 +1,1 @@
+A researcher with the Followers of the Apocalypse, Cameron was recruited by Eloi when he came looking for help for his tribe. 

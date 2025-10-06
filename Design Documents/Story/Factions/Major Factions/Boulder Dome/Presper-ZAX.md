@@ -1,0 +1,2 @@
+Presper-ZAX is a personality matrix scanned and implemented into the Boulder Dome ZAX, acting as the extension of Presper's will and the means to achieve his goal of permanent peace. 
+If the player kills Presper, Presper-ZAX will attempt to exterminate humanity following the Battle of the Corridor. 

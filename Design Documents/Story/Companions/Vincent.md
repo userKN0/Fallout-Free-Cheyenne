@@ -1,0 +1,9 @@
+Part of the East Forty Caravan expedition, Vincent Moody is a former resident of Vault City who was hired on to serve as a gunman for the team.
+
+Vincent was born in Vault City around 2250 and grew up during it's tumultuous transition from an insular society of former vault dwellers to NCR citizens. The history of slavery and militant isolationism became a hot button issue between the new generation who identified themselves with NCR and the older generations who identified with Vault City.  
+
+Against his parent's wishes Vincent volunteered to join the NCR Rangers at age 18, but washed out before he could earn his badge. Undeterred by this setback, he enlisted with the NCR military and distinguished himself during the NCR-Brotherhood War. Vincent finished his service as a staff sergeant and returned home to Vault City as a city guard. 
+
+The return to city life was far from smooth sailing. Many of his childhood friends were committed pacifists and the older generation resented Vincent for leaving to join an NCR war. Unable to adjust, Vincent left Vault City again and began offering his services in security either as a bodyguard or protecting high value cargo thanks to his unique experience with the Brotherhood of Steel. Due to Vincent's extensive resume, he's been hired to directly handle the security of the expedition to recover the package from the Ciphers.  
+
+Vincent will admire the Sons of Columbia for their revolutionary ideas about history and society. If the player sides with the Legion or Free Cheyenne against the SoC, he will leave the player's party and the expedition completely. 

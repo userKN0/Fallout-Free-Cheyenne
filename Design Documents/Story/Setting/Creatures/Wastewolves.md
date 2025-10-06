@@ -1,0 +1,5 @@
+Enormous genetically engineered dogs meant to be used as weapons during the Sino-American War. Developed under Project Werewolf, the Wastewolves were created to negate Chinese stealth technology and ambushes during assaults by detecting them with their enhanced senses, as well as crush enemy morale upon seeing their immense size. 
+
+Project Werewolf came under scrutiny by the US Army when a report found the creatures were impractical for frontline deployment in Alaska. The project then shifted to using the giant dogs as terror weapons, releasing them into the Chinese countryside to attack civilians and tie up PLA soldiers in their attempt to destroy the monsters. 
+
+Many specimens were obtained by Vault-Tec to serve in an experiment in Vault 57 (Granby, Colorado), alongside robodogs and various other canines. Once Vault 57 opened, the dogs migrated eastward and eventually came to live in Denver. The animals that became Wastewolves remained in the Rocky Mountains around Granby. 

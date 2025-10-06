@@ -1,0 +1,8 @@
+OVERVIEW
+CEO of the Platte Trading Company, Isaac Lang is one of the most powerful businessmen in the Corridor, if not the Wasteland. 
+
+Lang was one of the original Road Warriors who mutinied with William Cody before the Great War. At the start of the River Wars, Lang managed the Cheyenne Logistics Company that helped keep the new Marshal Service supplied during the brief conflict. The CLC would go on to supply Marshal outposts and communities throughout the River Wars, leading to Lang amassing much personal wealth. He would then use much of this to help attract support for the creation of the Platte Trading Company after the Powder River Massacre. 
+
+The enormously powerful PTC has a monopoly on all trade in Wyoming and has interests in many other territories as well. It has the powers of a state and the material wealth to match. But the monopoly the PTC enjoys has only another 22 years before it expires, and corruption is starting to become visible in the institution. On top of this, Jessica Cody has emerged as a political rival to Lang with her desire to see Captain Cody's legacy fulfilled by federalizing Free Cheyenne and the economic vassals under the PTC, thereby rendering the company irrelevant. Isaac Lang has to solve the problems in the PTC as well as neutralize the political forces in Free Cheyenne that would seek to put the kibosh on his plans for an ever expanding economic powerhouse. 
+
+BIOGRAPHY

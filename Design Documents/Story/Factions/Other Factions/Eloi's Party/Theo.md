@@ -1,0 +1,1 @@
+A first-generation supermutant, Theo joined with Eloi in the hopes that saving the Ciphers in Death Valley could lead to a new home for supermutants. 

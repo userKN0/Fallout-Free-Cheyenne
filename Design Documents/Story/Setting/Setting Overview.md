@@ -1,0 +1,3 @@
+The Corridor Wasteland as a setting is the confrontation between Free Cheyenne, a prospering democracy that cannot defend itself, and Legion Denver, a subdued but growing military power. Both sides are preparing for an inevitable battle that will determine the fate of the Corridor for years to come. 
+
+The Corridor is an oasis in the wasteland. Fresh water from the Rocky Mountains allowing people to grow food and thrive there. This small, recovering strip of land in the wasteland allowed Free Cheyenne to prosper and become the major power of Wyoming. The abundance of this place also brought the Legion in their drive for conquest, halting in Denver only because of the enormous effort to capture it. 

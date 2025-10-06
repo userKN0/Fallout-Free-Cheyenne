@@ -1,0 +1,1 @@
+Mickey Winkler is an assayer in charge of the Laramie Assay and Evaluations. He is in league with the Morse Brothers to cheat prospectors out of valuable materials they come across. Sleazy, greedy, and a sycophant to boot, Mickey is a major corrupting influence of Laramie that the Citizens Alliance has set their sights on. 

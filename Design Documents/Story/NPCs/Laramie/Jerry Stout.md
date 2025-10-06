@@ -1,0 +1,5 @@
+Entrepreneur and owner of the Grand Avenue Stables in Laramie. Energetic and exaggerated, Stout is a force of nature when it comes to business matters as he tries to keep the other party on the backfoot so he can get a better deal for himself. Despite his no holds barred approach with his fellow man, he deeply loves animals and will become enraged if he sees any mistreatment. He is pro-Morse Brothers in the political conflict of Laramie, but can be persuaded to side with the Citizens Alliance if he sees what's in it for him.  
+
+*"You work for a caravan? If you ever want to be a rich man NEVER work for 'em, sell to 'em. It took me 10 years to learn that so do yourself a favor and go build a life for yourself while you still got some hair left. Now what do you want?"
+
+*"No brahmin ever tried to cheat me out of my wages!"

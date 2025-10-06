@@ -1,0 +1,2 @@
+-Legion slave trader at the Denver Zoo. Drusus is a longtime veteran of Legion slave raids as far away as the Utah, but in his old age, has grown to become more of an auctioneer and administrator. His adopted son, also named Caius Drusus, is taking up the mantle of his father to become a Legion slave raider.
+ 

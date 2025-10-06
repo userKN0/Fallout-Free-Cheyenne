@@ -1,0 +1,10 @@
+The sole trading company in Free Cheyenne. The PTC originated as the Cheyenne Logistics Company in 2090, serving as logistical support for the Marshal Service during the River Wars. As Free Cheyenne's influence grew and Marshal outposts moved further out into the wasteland, the CLC found opportunities to grow and begin servicing settlements and tribes with trade opportunities. As the market grew, so did competition. Numerous caravan companies sprung up over the decades, rapidly expanding the economic might of Free Cheyenne and it's influence on the wasteland. However, major problems arose from this state of affairs. 
+
+Small caravans with few resources undertook risky contracts in order to maximize their profits and remain competitive, often becoming prey for gangs and raiders. Larger outfits who could protect their cargo were often undercut by the small caravans and couldn't accumulate enough capital to develop their enterprise. The final straw was the Powder River Massacre in 2201, when a Fearless Venture Caravans convoy was attacked and destroyed by a Road Pirate raider gang. An investigation revealed the raiders sold the stolen goods to smaller caravans, who then went on to fill the market share left by the devastated company. Isaac Lang, the founder and owner of the CLC, received backing by numerous investors and merchants to propose all trading enterprises in Free Cheyenne be merged into a single chartered joint-stock company and be granted a monopoly over the Wyoming territory for a period of 99 years. The Free Cheyenne council approved the creation of the Platte Trading Company in 2204 under the Platte River Monopoly Act, granting the PTC the exclusive right to conduct trade, powers to negotiate treaties with neighboring settlements, wage war, imprison and execute convicts, and establish it's own settlements.  
+
+To enforce these powers, the PTC created the Trade Regulators. A private police force responsible for protecting company property, enforce regulations and treaties, and apprehending criminals.
+
+FACTION NPCs
+- Isaac Lang
+- Bruce
+- Felix

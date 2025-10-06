@@ -1,0 +1,1 @@
+Hadacure, a foul-testing cure-all. Hadacure provides treatments to cough, constipation, nausea, insomnia, dizziness, blurred vision and anxiety. It is infused with 12% alcohol. Many Sabines swear by its ability to cure everything.

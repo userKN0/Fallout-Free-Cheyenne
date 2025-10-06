@@ -1,0 +1,1 @@
+While Outer Denver is safe, Inner Denver remains treacherous. The remaining wild dog population resides here. Prospectors and adventurers take to using the rope bridges between the remains of skyscrapers to avoid the vicious hounds below. 

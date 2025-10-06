@@ -1,0 +1,1 @@
+Starting location for Fallout: Free Cheyenne. The Player will arrive here from the Mojave with the expedition. Here, they will be able to clear out the lodge that has been infested with critters to make it player housing and a base for followers. Otherwise, the expedition will remain outside. 

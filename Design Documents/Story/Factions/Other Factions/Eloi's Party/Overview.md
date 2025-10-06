@@ -1,0 +1,1 @@
+A group of companions that Eloi recruited in his quest to save his tribe. Each with different backgrounds, skills, and personalities, they were able to steal the Boulder Dome key from the East Forty Caravan Company before it departed the Mojave through Legion territory. 

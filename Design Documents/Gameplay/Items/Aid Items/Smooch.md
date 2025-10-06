@@ -1,0 +1,1 @@
+Highly addictive but powerful chem item, manufactured by Marty from The Reservation and distributed by the Moonrunners in the Corridor Wasteland.  Potentially a nootropic treatment for mental disability in Second-Generation Supermutants like Nimrod. 

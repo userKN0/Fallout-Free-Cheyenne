@@ -1,0 +1,7 @@
+The Corridor Wasteland is a geographic area making up the former Front Range Urban Corridor stretching from Cheyenne to Denver. After the Great War, the Corridor Wasteland received it's name from being a corridor between the Rocky Mountains and the enormous radioactive dust bowl that formed over the Great Plains, now known as the Cauldron. The Cauldron itself stretches from northern Texas up to the border of South Dakota.
+
+The Corridor Wasteland has several distinct biomes: temperate plains in the northwest, arid flatland in the northeast, an alpine climate to the west in the Rockies, and a temperate urban section in the south.
+
+The main source of water in the game world is the South Platte River, running from the south of Denver to Temperance and out to Fort Morgan. The City of Free Cheyenne obtains it's water from various sources northwards, including the North Platte River.
+
+The abundance of drinkable water has translated directly into more food and prosperous conditions for the inhabitants, but this hasn't made the wasteland any less treacherous. The wilderness has hardly been tamed yet, let alone conquered. "Civilized" people are just as likely to put you in a shallow grave as any raider if they think they can get away with it.

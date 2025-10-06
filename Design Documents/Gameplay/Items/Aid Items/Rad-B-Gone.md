@@ -1,0 +1,1 @@
+Free Cheyenne aid item to act as a substitute for RadAway. Less potent than RadAway, but much more common. 

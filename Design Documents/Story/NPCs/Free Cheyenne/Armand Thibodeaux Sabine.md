@@ -1,0 +1,1 @@
+-The ailing and tired leader of the Sabine tribes. Took command of the tribe during the Exodus after Coozan Augustin's death in Oklahoma. His decision to keep the Sabines is both pragmatic (end of hardship) and personal (he feels that he cannot survive another journey).

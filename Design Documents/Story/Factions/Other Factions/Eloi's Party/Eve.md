@@ -1,0 +1,1 @@
+A fellow tribal from the Ciphers, Eve acts as a scout for the party.

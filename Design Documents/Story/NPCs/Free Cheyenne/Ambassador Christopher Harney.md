@@ -1,0 +1,2 @@
+-NCR Ambassador to Free Cheyenne. 
+-Has been instructed by the Kimball administration to bring Free Cheyenne into the NCR sphere of influence and carries out instructions from Shady Sands to the letter. His current instructions include: 1) attempt to get Cheyenne to further lower its own trade barriers while the NCR keeps theirs, 2) support Cheyenne's anti-Legion initiatives through advisors, special training and economic aid, 3) help suppress any non-NCR-aligned OR non-Cheyenne-aligned tribal activity in the region.

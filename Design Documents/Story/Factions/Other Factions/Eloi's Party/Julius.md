@@ -1,0 +1,1 @@
+An escaped convict from the NCRCF, Julius Washington was serving time for armed robbery until the prison riot at the facility allowed him to escape. Wanting to get far away from the prison and the NCR, Julius linked up with Eloi and his party when they came to the Mojave and needed to plan their robbery of the East Forty Caravan. 

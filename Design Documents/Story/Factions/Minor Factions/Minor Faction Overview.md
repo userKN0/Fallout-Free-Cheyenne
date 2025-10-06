@@ -1,0 +1,1 @@
+These factions are players in the story as well, interacting with each other and the major factions to create conflict.

@@ -1,0 +1,441 @@
+
+**Items that are either in need of or in the process of being implemented into the mod.
+
+
+**STORY
+- Write and implement the full main quest chains for the mod (0/?)
+	- Write and implement Over the Border quest chain
+- Write and implement main faction affiliated side quests (0/?)
+- Write and implement all companions and their related quests (0/10)
+	- [[Bella]]
+	- [[Decimus]]
+		- Write and implement NPC
+		- Design and implement "No Better Friend"
+		- Design and Implement "Casting the Die"
+	- [[Emily]]
+		- Write and implement NPC
+		- Design and implement companion quest (Title TBD)
+	- [[King Messer]]
+	- [[Mister Fairbanks]]
+	- [[Nimrod]]
+	- [[NULL]]
+	- [[Robert]]
+	- [[Sofia]]
+	- [[Vincent]]
+- Write and implement all minor faction affiliated side quests (0/?)
+- Write and implement all unaffiliated side quests (0/?)
+- Write and implement all unmarked quests (0/?)
+- Write and Implement Major Faction NPCs (0/4)
+	- Free Cheyenne (0/?)
+		- Marshal John Messer
+		- Jessica Cody
+		- Chief Deputy Abner Sweet
+		- Barbie
+		- Gord
+		- Seth Lechowski
+		- Stanley Koch
+		- Jacob Cutter
+		- Lee
+		- Deputy Chandler
+		- Doctor Gorman
+		- Regan
+		- Marlin
+		- Deputy Marshal Dupont
+		- Mel
+		- Misty
+		- Neil Watts
+		- Sarah
+		- Candice
+		- Dana
+	- Caesar's Legion (0/?)
+		- Legate Ferrarius
+		- Caius Drusus
+		- Postumus
+	- Sons of Columbia (0/?)
+		- The Chief
+		- Sister Number One
+		- Paullus
+	- Boulder Dome
+		- Victor Presper
+- Write and Implement Minor Faction NPCs (0/17)
+	- Morse Gang (3/5)
+		- ~~Nathan Morse~~ (Complete)
+		- ~~Owen Morse~~ (Complete)
+		- ~~Landon Morse~~ (Complete)
+		- Mickey Winkler
+		- Jerry Stout
+	- Laramie Citizens Alliance (0/?)
+		- Edith Young
+		- Joe Chance
+		- Meadow Huffman
+	- Freenians (0/?)
+		- Felicity 
+		- Duncan
+		- Ellis
+	- Sabines (0/?)
+		- Hank Sabine
+		- Kyle Sabine
+	- NCR Rangers (0/5)
+		- Ranger Dufrense
+		- Omar Sidney
+	- Temperance
+	- Granby
+	- Vault Marauders (0/?)
+		- ZAX-40
+	- Speed Freaks
+	- Manhunters
+	- True Brotherhood
+	- Provisional Brotherhood
+	- Unity of Steel
+	- East Forty Caravan Company (0/?)
+		- John Abel
+	- Platte Trading Company (0/?)
+		- Isaac
+		- Bruce
+		- Felix
+		- Lisa
+	- Moonrunners (0/?)
+		- Malachi
+		- Otto
+	- Church of Mori (0/?)
+		- Father Thanatus
+- Write and Implement Unaffiliated NPCs
+  - Denver
+  - Free Cheyenne
+	  - Elmore Bradley
+  - Laramie
+    Doctor Drinkwater (Alaska)
+	Edgar Parrish
+
+
+**WORLD DESIGN
+
+- North-West Section (-64, 64) to (-1, 1)
+	- Laramie (0/3)
+		- Design and connect Laramie building interiors (20/20)
+			- ~~Sheriff's Office~~ (Complete)
+			- ~~Snarling Pup's Slaughterhouse (Formerly Laramie Brothel)~~ (Complete)
+			- ~~Photography Studio~~ (Complete)
+			- ~~Laramie Gunsmith~~ (Complete)
+			- ~~Laramie Telecom Office~~ (Complete)
+			- ~~Laramie Grocer~~ (Complete)
+			- ~~Laramie Tailor~~ (Complete)
+			- ~~Assay Office~~ (Complete)
+			- ~~Jewel Tavern~~ (Complete)
+			- ~~Laramie Building and Loan~~ (Complete)
+			- ~~Laramie Blacksmith~~ (Complete)
+			- ~~Dr. Drinkwater's Practice~~ (Complete)
+			- ~~Timber Estates~~ (Complete)
+			- ~~Laramie Homes (11/11)~~ (Complete)
+			- ~~Laramie Town Hall~~ (Complete)
+			- ~~Laramie Bathhouse~~ (Complete)
+			- ~~Parrish and Sons Funeral Parlour~~ (Complete)
+			- ~~Laramie Stables~~ (Complete)
+			- ~~Laramie PTC Post~~ (Complete)
+			- ~~Laramie Boarding House~~ (Complete)
+		- Area Clutter (0/21)
+			- Laramie Exterior Clutter
+			- Sheriff's Office
+			- Snarling Pup's Slaughterhouse
+			- Photography Studio
+			- Laramie Gunsmith
+			- Laramie Telecom Office
+			- Laramie Grocer
+			- Laramie Tailor
+			- Assay Office
+			- Jewel Tavern
+			- Laramie Building and Loan
+			- Laramie Blacksmith
+			- Dr. Drinkwater's Practice
+			- Timber Estates
+			- Laramie Homes (0/11)
+			- Laramie Town Hall
+			- Laramie Bathhouse
+			- Parrish and Sons Funeral Parlour
+			- Laramie Stables
+			- Laramie PTC Post
+			- Laramie Boarding House
+		- Write and implement NPCs (0/10?)
+			- Nathan Morse
+			- Owen Morse
+			- Landon Morse
+			- Meadow Huffman
+			- Mickey Winkler
+			- Joe Chance
+			- Jerry Stout
+			- Edith Young
+			- Edgar Parrish
+			- Doctor Colin Drinkwater
+	- Laramie Airport (0/3)
+		- Area Clutter
+		- Design and connect interiors to worldspace
+		- Design and implement enemy encounters
+	- Jelm Mountain Resort (0/2)
+		- Area Clutter
+		- Design and connect cabin interiors to worldspace
+	- Harmony (0/4)
+		- Area Clutter
+		- Implement NPCs
+		- Design and connect interior to worldspace
+		- Design trigger event with the Morse Gang harassing a farmer
+	- National Guard Ruins (0/3)
+		- Area clutter
+		- Design and connect dungeon interiors to worldspace
+		- Design and implement enemy encounters
+	- Granite Canyon (0/2)
+		- Area clutter
+		- Enemy encounters
+	- Mountain Meadow Ranch (0/2)
+		- Area Clutter
+		- Design and connect interior to worldspace
+	- I-80 Checkpoint (0/2)
+		- Area clutter
+		- Write and implement NPCs
+	- Laramie Water Treatment Plant (0/3)
+		- Area clutter
+		- Design and connect dungeon interiors to worldspace
+		- Design and implement enemy encounters
+	- Wyoming Infrared Observatory (0/3)
+		- Area clutter
+		- Design and connect dungeon interior to worldspace
+		- Design and implement enemy ecounters
+	- Fort Columbia (0/3)
+		- Area clutter
+		- Design and connect interiors to worldspace
+		- Write and implement NPCs
+	- Forks Saw Mill (0/3)
+		- Area clutter
+		- Write and implement NPCs
+		- Design and connect interior to worldspace
+	- Natural Fort (0/2)
+		- Area clutter
+		- Design enemy encounter
+	- Horse Creek Checkpoint (0/2)
+		- Area clutter
+		- Write and implement NPCs
+	- Buford Pit Stop (0/4)
+		- Area clutter
+		- Write and implement NPCs
+		- Design merchant 
+		- Design and connect interior to worldspace
+	- Wyoming Supercomputer Center (0/3)
+		- Area clutter
+		- Design and connect dungeon interior to worldspace
+		- Design enemy encounters
+	- Little Commonwealth Resort (0/4)
+		- Area clutter
+		- Design and connect interiors to worldspace
+		- Design "faction neutral" doctor/merchant
+		- Write and implement NPCs
+	- Colorado Rest Stop (0/1)
+		- Area clutter
+	- Chinook Drive In (0/1)
+		- Area clutter
+	- Lincoln Memorial (0/2)
+		- Area clutter
+		- Design and connect interior to worldspace
+	- Logan Ranch Campground (0/1)
+		- Area clutter
+	- Harmony Furniture (0/2)
+		- Area clutter
+		- Design and connect interior to worldspace
+	- Old West Winery (0/2)
+		- Area clutter
+		- Design and connect interior to worldspace
+	- Abbery of Saint Walburga
+		- Area clutter
+	- Buttes Environmental Lab (0/3)
+		- Area clutter
+		- Design and connect interior dungeon to worldspace
+		- Design enemy encounter
+	- Tie Siding Post Office (0/2)
+		- Area clutter
+		- Design and connect interior to worldspace
+	- Tree Rock (0/2)
+		- Area clutter
+		- Write script/activator that allows player to temporarily boost Luck stat by giving water to the tree
+	- Virginia Dale (0/1)
+		- Area clutter
+	- Estes Park (0/4)
+		- Add (Overlook) Hotel
+		- Area Clutter
+		- Add residential buildings with interiors
+		- Write and implement NPCs
+	- Add Laramie River to the exterior worldspace
+	- Complete landscape obstacles along the Little Laramie River to prevent players from walking to the edge of the map
+- South-West Section (-64, -64) to (-1, -1)
+	- Granby
+		- Vault 57 Entrance
+	- Missile Park (0/1)
+		- Area clutter
+	- Boulder (0/3)
+		- Area clutter
+		- Design enemy encounters
+		- Connect interiors to worldspace
+	- Boulder Dome (0/3)
+		- Area clutter
+		- Connect interior to worldspace
+		- Write script/activator for the Boulder Dome entrance that checks if the player has acquired the key and will give option to add their biometric data to unlock it
+	- Colorado National Guard Armory (0/3)
+		- Area clutter
+		- Connect dungeon interior to worldspace
+		- Design enemy encounter
+	- Drake (0/3)
+		- Design exterior
+		- Area clutter
+		- Write and implement NPCs
+	- Raiderville (0/3)
+		- Area clutter
+		- Write and implement NPCs
+		- Design and connect interiors to worldspace
+	- Loveland (0/4)
+		- Design exterior
+		- Area clutter
+		- Write and implement NPCs
+		- Design and connect interiors to worldspace
+	- Denver Zoo (0/3)
+		- Area clutter
+		- Write and implement NPCs
+		- Design and connect interiors to worldspace
+	- Inner Denver Entrance (0/2)
+		- Area clutter
+		- Write and implement NPCs
+	- Denver Hospital Ruins (0/3)
+		- Area clutter
+		- Write and implement NPCs
+		- Design and connect interiors to worldspace
+	- Rocky Mountain Arsenal (0/3)
+		- Area clutter
+		- Write and implement NPCs
+		- Design and connect interiors to worldspace
+- North-East Section (1, 1) to (64, 64)
+	- Free Cheyenne City Walls (0/2)
+		- Area clutter
+		- Write and implement NPCs
+	- Front Range Speedway (0/1)
+		- Area clutter
+	- Pine Bluffs (0/3)
+		- Area clutter
+		- Write and implement NPCs
+		- Design and connect interiors to worldspace
+	- Pine Bluffs Airport (0/3)
+		- Area clutter
+		- Design and connect dungeon interiors to worldspace
+		- Design enemy encounter
+	- Wyoming Metal Art Exhibit (0/2)
+		- Area clutter
+		- Implement unique asset
+	- Wyoming Travel Center (0/3)
+		- Area clutter
+		- Design and connect dungeon interior to worldspace
+		- Design enemy encounter
+- South-East Section (1, -1) to (64, -64)
+	- Fort Morgan (0/3)
+		- Area clutter
+		- Write and implement NPCs
+		- Design and connect dungeon interiors to worldspace
+	- Fort Vasquez (0/3)
+		- Area clutter
+		- Write and implement NPCs
+		- Design and connect interior to worldspace
+	- Denver International Airport (0/3)
+		- Area clutter
+		- Design and connect dungeon interiors to worldspace
+		- Design enemy encounters
+	- Buckley AFB (0/3)
+		- Area clutter
+		- Design and connect interiors to worldspace
+		- Write and implement NPCs
+	- Temperance
+		- Area clutter
+		- Design and connect interiors to worldspace
+		- Write and implement NPCs
+		- Implement system that checks if player is carrying or using chems and stimpaks since Temperance is meant to be a "dry town"
+	- Temperance PTC Warehouse (1/3)
+		- Area clutter
+		- ~~Design and connect interiors to worldspace~~ (Complete)
+		- Write and implement NPCs
+	- University of Colorado Hospital (0/3)
+		- Area clutter
+		- Design and connect interiors to worldspace
+		- Write and implement NPCs
+- Boulder Dome Worldspace (0/3)
+	- Landscape Work
+	- Connect interiors to worldspace
+	- Area clutter
+- Corridor Wasteland Mini Worldspace (0/2)
+	- Inner Denver (0/4)
+		- Area clutter
+		- Design and implement NPCs
+		- Design and connect interior dungeons to worldspace
+		- Design enemy encounters
+	- Fort Columbia (0/3)
+		- Area clutter
+		- Design and implement NPCs
+		- Design and connect interiors to worldspace
+- Free Cheyenne City Worldspace (0/1)
+	- Complete Free Cheyenne cityscape rework (userKN) (1/10)
+		- ~~Implement appropriate wall assets~~ (Complete)
+		- Street layout rework
+		- Add important locations and buildings
+		- Implement NPCs
+		- Write new dialogue for NPCs
+		- Add multi-unit housing (row houses, apartments, etc) to imply a much larger population present in the city
+		- Add grain silos to replace some of the farming efforts
+		- Rework scale of the city to match the demo version (current is too compact)
+		- Move usonian housing to outside the city walls
+		- Design tourist areas/attractions (Free Cheyenne museum for example)
+		- Create asset to resemble the state capitol dome 
+
+- Free Cheyenne City Hub Worldspace (0/2)
+	- Platte Trading Company Shipping Yard (0/3)
+		- Write and implement NPCs
+		- Area Clutter
+		- Connect interiors to worldspace
+	- Freenian Camp (0/3)
+		- Area Clutter
+		- Write and implement NPCs
+		- Connect interiors to worldspace
+- Dungeons (0/14) (Incomplete list)
+	- Vault 40
+	- Warren Air Force Base
+	- National Guard Ruins (Laramie)
+	- Laramie Water Treatment Plant
+	- Denver International Airport
+	- Inner Denver Skyscraper Ruins (0/7)
+	- Derelict Sugar Factory (Fort Morgan)
+	- Wyoming Travel Center
+	- Colorado National Guard Armory
+	- Jelm Mountain Resort Cave
+	- Wyoming Infrared Observatory
+	- Wyoming Supercomputer Center
+	- Buttes Environmental Lab
+	- Estes Park Hotel
+
+
+
+**GAMEPLAY
+- Design and implement faction NPCs 
+- Design and implement Stability System 
+- Design, implement, and test the Fault Line System at the Table Mountain Outpost location
+- Design and implement all companions 
+
+**ASSETS
+- Create new building asset for the Boulder Dome
+~~- Add LOD models for the Free Cheyenne Hospital~~ (Complete)
+- Create map for the Free Cheyenne cityscape 
+- Create new door/wall room tile for the Laramie Telecom Office
+- Create new texture for the Jewel Tavern sign banner
+- Commission musical theme for Free Cheyenne to play on game menu 
+
+**NAMESHING
+- TBD
+
+**BUG FIXES
+- Correct ITM errors in future releases
+
+
+
+
+
+

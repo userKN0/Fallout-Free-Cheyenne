@@ -1,0 +1,7 @@
+In charge of the East Forty Caravan Expedition, he is a caravan boss with extensive knowledge of the trails and routes east of the Colorado River. He is responsible for recommending the player character to be hired onto the expedition.
+
+Fairbanks is a native of the Hub who made his living as a hired hand on the Big Circle. Over the years he eventually became an experienced caravan boss of the Far Go Traders where he met John Abel, who also started as a hired hand. Abel shortly left the Far Go Traders to start the East Forty Caravan Company and invited Fairbanks to lead their first trade caravan from the Hub to Flagstaff. He eventually learns that Abel joined the Far Go Traders merely to meet merchants and investors who would fund a caravan over the Colorado River based on his father's letters and notes of the communities and tribes there. 
+
+After the secret package to the Corridor got stolen by the Ciphers, Abel turned to Fairbanks to lead an expedition to recover it as well as recommend individuals to undertake this. Fairbanks recommends that the East Forty Company hire the player character based on their tag skills. 
+
+If the player sides against or attacks the Legion, Mister Fairbanks will leave the party since his entire livelihood depends on passing through Legion territory. 

@@ -1,0 +1,1 @@
+The creatures in the Corridor Wasteland should reflect the wildlife in the real life Front Range. 

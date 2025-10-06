@@ -1,0 +1,3 @@
+The Fault-Line system is what tracks random events in the wasteland and makes the world map dynamic as the player makes decisions and aligns with certain factions. Faction territory will appear to grow or shrink as their stability is influenced by the player and random events in the world. 
+
+The intention of this system is to provide Players with feedback for their actions and also make the world space feel alive with events occurring outside of the Player's direct input or control. 

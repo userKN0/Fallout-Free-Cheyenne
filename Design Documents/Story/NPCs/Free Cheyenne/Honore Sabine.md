@@ -1,0 +1,3 @@
+-Elder shaman of the Sabines. 
+-A deeply religious soothsayer/priest/oral historian who is a firm believer that Free Cheyenne is the promised land, based on the commonality between the New Canaanite Mormon faiths and the Sabine's own Cajun Catholic tribal traditions. Keeps some of the paper texts locked away in a chest in his room. Celibate, no wife, no children. 
+-Oftentimes feels tortured by his need to hear God in the lands he walks. Claims that he heard God through the swamps and the Cauldron, but the sermons have stopped since they arrive in Free Cheyenne. He views this as the major sign that the Sabines have arrived in the Promised Land.

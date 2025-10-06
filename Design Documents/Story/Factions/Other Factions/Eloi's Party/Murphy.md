@@ -1,0 +1,1 @@
+Mangled and blind in one eye, Murphy the Pariah Dog is the ever faithful companion of Eloi. 

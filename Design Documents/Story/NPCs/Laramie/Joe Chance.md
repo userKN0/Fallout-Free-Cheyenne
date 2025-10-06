@@ -1,0 +1,1 @@
+A gunslinger who made his name down south against the Vault Marauders but also has had negative run-ins with the Free Cheyenne Marshals. Sympathetic to the Laramie Citizens Alliance's request for hire, but won't budge until he gets a pardon from the Marshals.

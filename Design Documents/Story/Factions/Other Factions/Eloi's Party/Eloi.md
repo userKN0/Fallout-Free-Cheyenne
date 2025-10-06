@@ -1,0 +1,1 @@
+"The Cipher" and leader of the group, Eloi recruited several other wastelanders to help him on his quest to save his tribe. 

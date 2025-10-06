@@ -1,0 +1,11 @@
+- Professional con artist
+- Trying to sell a fake gold mine to the Legion 
+- Peddles scams to other people across the Corridor
+
+-Son of a Laramie prostitute and an unknown father 
+-Grew up in a brothel and on the streets, got a basic education by mormon missionaries but never fell in with the flock. 
+-Mother died from respiratory disease when he was a teenager, got by with petty crimes and day labor, eventually began scamming. 
+-Worked a stint in the PTC as young adult but got let go due to stealing from the company (gave him trade accumen though). 
+-Has run scams all over the Corridor, pathological capitalist with no real friends or relationships, known bad quantity in the north due to years of scams. 
+-Has connections with the Marauders, Moonrunners, Road Pirates and every other petty outfit under the sun. 
+-Sees the Legions arrival as a reinvigorating opportunity but is not quite aware of how ruthless and dangerous they can be. Early 30s by time of game but looks like a rocked down mid 40s exchange trader.

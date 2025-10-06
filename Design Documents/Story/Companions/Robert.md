@@ -1,0 +1,9 @@
+A convict who was turned into a robobrain before the war, Robert escaped his captors after the bombs fell. A professional thief, he regularly plans robberies and ambushes travelers. His companion quest should be about attempting to pull the biggest score in his life.  
+
+Robert Dillinger was a pre-war bank robber and gangster waiting on death row for the crime of murdering a police officer. During his incarceration, he was selected for the Robobrain program and had his brain forcibly removed. Robert's brain underwent CODE conditioning meant to wipe his memory and personality. However, like most unfortunate subjects, he was resistant to the brainwashing. Robert quickly realized that if the psychologists suspected the CODE conditioning failed he was going to be terminated, and played along until he could find a way to escape. 
+
+Robert was eventually transferred to Fort Carson as a security robot for the POW camp and assisted government researchers in escorting and restraining prisoners for their own experiments. Robert continued to bide his time for two years until finally the Great War came. Fort Carson was one of the priority targets for Chinese bombardment, and amidst the chaos Robert took his revenge out on base personnel who attempted to flee to the bunkers. 
+
+After surviving the Great War, Robert wandered the wasteland and eventually went back to what he did best: thievery. He joined gangs of outlaws and raiders until they all died and moved onto the next group. Robert never had much use for the things they stole and ended up giving it away most of the time. 
+
+His motivation for pulling the biggest heist of his life is to prove that despite everything the American government took from him, they never broke him. The companion quest will be about assisting Robert with his plans to help him get closure, or to work with him to understand the futility of settling a score with enemies long gone. 

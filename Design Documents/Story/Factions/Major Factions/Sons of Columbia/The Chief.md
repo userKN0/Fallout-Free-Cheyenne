@@ -1,0 +1,6 @@
+The Chief, Daniel Ryan, was a former Brotherhood of Steel Knight who served under the True Brotherhood during the Midwestern Civil War. The conflict cost him his arm and eventually led to him deserting the Brotherhood altogether. 
+
+During his time as a scout, Ryan discovered an old Chinese propaganda broadcast, still being transmitted after 200 years. Initially dismissing the declarations and quotations from socialist writers as nonsense, Ryan continued his missions, but became curious in the broadcast as a time capsule. He began to listen to the radio regularly and found himself agreeing that the crisis the Midwestern Brotherhood faced was comparable to what was written about imperialist societies in the Old World. After his departure from the Brotherhood and wandering the wastes, Ryan eventually came to believe that the current rulers use past societies and their methods of imperialism as a model because the material conditions of the wasteland had rendered them and their myth as the only ideal of a better future. If they could be destroyed, the masses would have no choice but to embrace the reality of future. 
+
+The Chief, with his newly found ideas, set out into the Corridor to build his revolutionary vanguard in order to liberate the wasteland from America. 
+
